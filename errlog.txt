@@ -1,0 +1,4 @@
+VS code
+routine.go:1:1: expected 'package', found 'EOF'
+This usually happens when you have a file e.g. foo_test.go empty or without package declaration.
+
